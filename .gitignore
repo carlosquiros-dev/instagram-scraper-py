@@ -1,0 +1,9 @@
+# Entorno virtual
+venv/
+__pycache__/
+
+# Cookies de sesión (equivalen a tu contraseña)
+cookies*.json
+
+# Datos extraídos
+output/
