@@ -4,7 +4,7 @@ import json
 import re
 from pathlib import Path
 
-from generar_plantilla import COOKIE_NAMES
+from cookies.generar_plantilla import COOKIE_NAMES
 
 PATRON_ARCHIVO = re.compile(r"cookies(\d*)\.json")
 

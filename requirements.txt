@@ -1,1 +1,4 @@
 playwright
+google-genai
+python-dotenv
+matplotlib
