@@ -7,3 +7,6 @@ cookies*.json
 
 # Datos extraídos
 output/
+
+# API key de Gemini
+.env
